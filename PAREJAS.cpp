@@ -53,6 +53,23 @@ if (opcion==2)
 
 }
 
+if (opcion==3)
+{
+	
+	/* system ("clear") */
+
+	resultado=num1*num2;
+	
+	std::cout<<"El producto de "<<num1<<" y "<<num2<<" Es igual a: "<<resultado<<std::endl;
+	
+	/* system ("clear") */
+
+
+
+		
+	
+}
+
 return 0;	
 
 
