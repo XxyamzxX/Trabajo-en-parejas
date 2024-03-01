@@ -70,6 +70,20 @@ if (opcion==3)
 	
 }
 
+if (opcion==4)
+{
+	
+	/* system ("clear") */
+
+	resultado=num1/num2;
+	
+	std::cout<<"La divisi�n de "<<num1<<" y "<<num2<<" Es igual a: "<<resultado<<std::endl;
+	
+		
+
+	
+}
+
 return 0;	
 
 
