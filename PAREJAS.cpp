@@ -38,6 +38,22 @@ if (opcion==1)
 }
 
 
+if (opcion==2)
+{
+	
+	/* system ("clear") */
+
+	resultado=num1-num2;
+	
+	std::cout<<"La resta de "<<num1<<" y "<<num2<<" Es igual a: "<<resultado<<std::endl;
+	
+		
+	
+
+
+}
+
+return 0;	
 
 
 
